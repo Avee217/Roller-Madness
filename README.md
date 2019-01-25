@@ -9,3 +9,9 @@ The game comprises of two levels, the second posing a higher challenge with the 
 ### Instructions
 1. Download the .zip file and extract to your system
 2. Play by opening the `index.html` file located in the Builds/WebGL folder.
+
+### Screenshots
+
+![](Screenshots/RM1.png)
+![](Screenshots/RM2.png)
+![](Screenshots/RM4.png)
